@@ -12,7 +12,7 @@ Para este taller se implementara un servidor Web (tipo Apache) en Java. El servi
 
 Primero vamos a clonar el repositorio con el siguiente comando:
 
-`git clone https://github.com/
+`git clone https://github.com/Andres7498/AREP-Taller3`
 
 Una vez descargado, ingresamos a la carpeta con nuestros archivos e ingresamos el siguiente comando:
 
@@ -60,7 +60,6 @@ Para este taller se implementara un servidor Web (tipo Apache) en Java. El servi
 - Maven
 - Git
 - Java
-- Heroku
 
 # Instalacion
 
@@ -75,8 +74,6 @@ Una vez descargado, ingresamos a la carpeta con nuestros archivos e ingresamos e
 una vez se haya ejecutado de manera correcta, podremos ejecutar la aplicacion con el siguiente comando ingresando a un navegador y escribiendo localhost:35000
 
 `java -cp target/AREP_META_PROTOCOLOS-1.0-SNAPSHOT.jar co.edu.escuelaing.microspringboot.SprintBoot`
-
-Tambien la podremos visualizar en heroku.
 
 # Como usar
 
