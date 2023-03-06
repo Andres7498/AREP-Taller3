@@ -1,0 +1,17 @@
+body {
+    background-color: #8BB3F7;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 2em;
+}
+
+form {
+    background-color: #BE8BF7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #888888;
+}
